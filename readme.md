@@ -1,10 +1,11 @@
+本文来源于：https://github.com/zhoutaoo/SpringCloud.git
+
 [![Build Status](https://travis-ci.org/zhoutaoo/SpringCloud.svg?branch=master)](https://travis-ci.org/zhoutaoo/SpringCloud)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![codecov](https://codecov.io/gh/zhoutaoo/SpringCloud/branch/master/graph/badge.svg)](https://codecov.io/gh/zhoutaoo/SpringCloud)
 
+本项目已运行成功，大环境是在docker下进行部署。
 ## 快速开始
-
-### 先决条件
 
 首先本机先要安装以下环境，建议先学习了解springboot和springcloud基础知识。
 
